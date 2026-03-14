@@ -189,4 +189,5 @@ It indicates how many bookings were successfully completed without cancellations
 https://github.com/Snehaingale777/StayInsight-Hospitality-Revenue-Performance-Analytics-using-Power-BI/blob/main/hospitality_domain_powerbi.jpg
 
 Conclusion
+
 This project highlights the importance of analyzing key metrics in the hotel industry, including RevPar, Realization %, and ADR. By understanding these metrics, businesses can make data-driven decisions to improve revenue and customer satisfaction.
