@@ -185,3 +185,5 @@ Formula:
 Realisation % = Successful Bookings / Total Bookings
 
 It indicates how many bookings were successfully completed without cancellations.
+
+https://github.com/Snehaingale777/StayInsight-Hospitality-Revenue-Performance-Analytics-using-Power-BI/blob/main/hospitality_domain_powerbi.jpg
